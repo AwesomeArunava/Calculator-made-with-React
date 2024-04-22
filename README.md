@@ -43,7 +43,7 @@ You can view a live demo of the calculator [here](https://awesomearunava.github.
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
